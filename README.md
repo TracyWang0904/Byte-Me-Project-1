@@ -5,7 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - [Tracy Wang](https://github.com/TracyWang0904)
-- [Emma](https://github.com/emma6594)
+- [Emma Ao](https://github.com/emma6594)
 - [Jingjing Wang](https://github.com/JingjingWang129)
 - [Uuriintuya Ganzorig](https://github.com/Uuriii1003)
 
